@@ -3,6 +3,13 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 .kotlin
+.kotlinc
+
+# Ignore IDE/project files
+/.idea/
+/*.iml
+*.ipr
+*.iws
 
 ### Eclipse ###
 .apt_generated
